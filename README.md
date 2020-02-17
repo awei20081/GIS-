@@ -1,4 +1,4 @@
-# Initial page
+# 最新动态
 
 ## Can I become who I want to be?
 
