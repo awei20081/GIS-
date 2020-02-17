@@ -1,2 +1,2 @@
-# 最新动态
+# Initial page
 
