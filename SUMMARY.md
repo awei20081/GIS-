@@ -15,7 +15,7 @@
     * [地图投影](kuai-su-ru-men/di-tu-fu-wu-shi-yong-jian-jie/di-tu-tou-ying.md)
   * [如何使用SDK调用](kuai-su-ru-men/ru-he-shi-yong-sdk-tiao-yong.md)
   * [使用Postman调用地图服务](kuai-su-ru-men/shi-yong-postman-tiao-yong-di-tu-fu-wu.md)
-  * [Untitled](kuai-su-ru-men/untitled-1.md)
+  * [如何选择](kuai-su-ru-men/untitled-1.md)
 * [SDK参考](sdk-can-kao.md)
 * [API参考](api-can-kao.md)
 * [常见问题](chang-jian-wen-ti/README.md)
